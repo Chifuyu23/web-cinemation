@@ -1,0 +1,1 @@
+<a href="/" class="group"><span class="font-bold text-5xl font-quicksand text-black group-hover:text-develobe-500 duration-200">CINEMATION</span></a>
